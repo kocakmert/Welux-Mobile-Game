@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeLux</string>
+    <string name="v_1_0_0">V.1.0.8</string>
+    <string name="pop_setting_sound_enviroment">Ses ve Ortam</string>
+    <string name="sound">Ses</string>
+    <string name="vibrate">Titreşim</string>
+    <string name="time">Zaman</string>
+    <string name="turkce">Türkçe</string>
+    <string name="english">İngilizce</string>
+    <string name="language">Dil Seçenekleri</string>
+    <string name="other_game">Diğer Oyunlar</string>
+    <string name="game_mode">Oyun Modu</string>
+    <string name="block">PAS</string>
+    <string name="game1">Bayraklar ve Başkentler</string>
+    <string name="game2">Seç ve Fethet</string>
+    <string name="how_to_play">Nasıl Oynanır ?</string>
+    <string name="how_to_play1">Uygun kartları seçerek,toplamı 0 ile 21 arasında tutmaya çalışın</string>
+    <string name="how_to_play2">Bu kart ile seçtiğiniz kartı bloke edebilirsiniz</string>
+    <string name="how_to_play3">Bu kart ile seçtiğiniz kartın işaretini değiştirebilirsiniz</string>
+    <string name="ok">KAPAT!</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeLux</string>
+    <string name="v_1_0_0">V.1.0.8</string>
+    <string name="pop_setting_sound_enviroment">Sound and Environment</string>
+    <string name="sound">Sound</string>
+    <string name="vibrate">Vibration</string>
+    <string name="time">Time</string>
+    <string name="turkce">Turkish</string>
+    <string name="english">English</string>
+    <string name="language">Language</string>
+    <string name="other_game">Other Games</string>
+    <string name="game_mode">Game Mode</string>
+    <string name="block">PASS</string>
+    <string name="game1">Flags and Capitals</string>
+    <string name="game2">Choose and Conquer</string>
+    <string name="how_to_play">How To Play ?</string>
+    <string name="how_to_play1">Try to keep the sum between 0 and 21 by choosing the appropriate cards</string>
+    <string name="how_to_play2">With this card, you can block the chosen card</string>
+    <string name="how_to_play3">With this card, you can change the sign of the card you have chosen</string>
+    <string name="ok">CLOSE!</string>
+</resources>

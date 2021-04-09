@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#6200EE</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="cardColor">#03DAC5</color>
+    <color name="black">#131212</color>
+    <color name="white">#fff</color>
+    <color name="result_background">#c9c8c8</color>
+    <color name ="purple">#800080</color>
+    <color name="text_color">#374fc5</color>
+    <color name ="dark_blue">#262f3e</color>
+    <color name ="background1">#160036</color>
+    <color name="mav">#4F76C5</color>
+    <color name="ColorRed">#FF3943</color>
+    <color name="GriTone">#cecece</color>
+    <color name="ColorDarkRed">#801b20</color>
+    <color name="deneme">#51694a</color>
+    <color name="view">#040078</color>
+    <color name="progress">#6200EE</color>
+    <color name="text_color1">#ababab</color>
+    <color name="pop_up_color">#3452a5</color>
+</resources>
